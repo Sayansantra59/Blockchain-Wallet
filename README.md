@@ -9,7 +9,7 @@ Takeaway: The network is "Hub-based." People aren't sending money to each other;
 
 
 
-##2.Whale Wallet Detection (Big Money)
+## 2.Whale Wallet Detection (Big Money)
 Insight: Starting in 2025, the amount of money being moved (red spikes) grew massive, but the number of actual trades (blue line) didn't change much.
 
 Why: The "Whales" (big investors) aren't trading more often—they are just moving much larger amounts in every trade.
@@ -18,7 +18,7 @@ Takeaway: This is now a "Big Money" network. Large institutions are moving billi
 
 
 
-##3.Wallet Activity Distribution (Who is busiest?)
+## 3.Wallet Activity Distribution (Who is busiest?)
 Insight: "Whale" wallets are doing almost all the work, with over 14 million transactions. Small and medium users are barely a fraction of that.
 
 Why: Whales use automated bots that can trade hundreds of times a minute. A regular person might only make one or two trades a day.
@@ -27,7 +27,7 @@ Takeaway: This network is driven by automation. Most of the "action" you see is 
 
 
 
-##4.Whale Withdrawal Destinations (The Safes)
+## 4.Whale Withdrawal Destinations (The Safes)
 Insight: Almost all the money leaving the network is flowing into just three or four specific addresses.
 
 Why: These are likely "Cold Storage" (ultra-secure digital safes) or major exchanges. When Whales finish trading, they move their profits to these safe spots to protect them.
